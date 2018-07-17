@@ -1,0 +1,19 @@
+{
+  "name": "comm-100-franz",
+  "version": "1.0.0",
+  "description": "comm100 franz recipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimm1419/comm-100-franz.git"
+  },
+  "author": "jim montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimm1419/comm-100-franz/issues"
+  },
+  "homepage": "https://github.com/jimm1419/comm-100-franz#readme"
+}
