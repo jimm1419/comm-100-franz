@@ -1,5 +1,6 @@
 {
-  "name": "comm-100-franz",
+  "id": "comm100",
+  "name": "Comm100",
   "version": "1.0.0",
   "description": "comm100 franz recipe",
   "main": "index.js",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jimm1419/comm-100-franz/issues"
   },
-  "homepage": "https://github.com/jimm1419/comm-100-franz#readme"
+  "homepage": "https://github.com/jimm1419/comm-100-franz#readme",
+  "config": {
+    "serviceURL": "https://hosted.comm100.com/LiveChat/AgentConsole.aspx",
+    "hasNotificationSound": true
+  }
 }
